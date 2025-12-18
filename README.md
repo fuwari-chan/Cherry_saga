@@ -10,7 +10,7 @@ cd Cherry_saga
 python -m http.server -b 127.0.0.1 8080
 ```
 
-[Client Apk](https://github.com/fuwari-chan/clientcherrysaga.git)
+[Client Apk](https://github.com/fuwari-chan/cherrysagaclient.git)
 
 
 > [!NOTE]
